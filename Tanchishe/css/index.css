@@ -33,7 +33,7 @@
 .startBtn button{
     width: 200px;
     height: 80px;
-    background-image: url('../images/startGame.png');
+    background-image: url('../images/startGame.PNG');
     margin-left: -100px;
     margin-top: -40px;
 
@@ -46,7 +46,7 @@
 .pauseBtn button{
     width: 70px;
     height: 70px;
-    background-image: url('../images/start.png');
+    background-image: url('../images/start.PNG');
     margin-left: -35px;
     margin-top: -35px;
 }
@@ -65,7 +65,7 @@
 } */
 
 .snakeHead{
-    background-image: url('../images/snake.png');
+    background-image: url('../images/snake.PNG');
     background-size: cover;
 }
 
@@ -75,7 +75,7 @@
 }
 
 .food{
-    background-image: url('../images/food.png');
+    background-image: url('../images/food.PNG');
     background-size: cover;
 }
 
